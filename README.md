@@ -1,20 +1,20 @@
 # SPML
 Simple Python Minecraft Launcher
 -------------------------------------------------
-| A "poor" GUI python3 based minecraft launcher.|
--------------------------------------------------
-|Usage|
--------
-  Simple: drag the launcher to the dir of the game
+A "poor" GUI python3 based minecraft launcher
+
+Usage
+
+ Simple: drag the launcher to the dir of the game
     example->Gamedir/
                 .minecraft
                 .client.exe
                 .background.gif
-  Advance: use python execute client.py
+ Advance: use python execute client.py
             then locate the game folder and adjust the settings
 --------------------------------------------------
-|Feathers|
-----------
+Feathers
+
 1. Use pure python modules
 2. launch Minecraft
 3. generate launch scripts(.bat only)
