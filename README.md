@@ -24,6 +24,6 @@ Feathers
 5. can momorize your settings
 6. try to find available game versions
 7. IDK XD
-==================================================
+
 
   
