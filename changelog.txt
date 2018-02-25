@@ -1,0 +1,14 @@
+﻿Vers:
+V0.1.0-12:04 AM 2018-02-24 (MST):
+	modify the open source code from the web, citing from https://wusiyu.me/smcl-%E4%BD%BF%E7%94%A8python%E7%BC%96%E5%86%99%E7%AE%80%E5%8D%95minecraft%E5%90%AF%E5%8A%A8%E5%99%A8/
+	changes are mainly on the syntax part, replacing ":" to ";" between libraries and some other misc changes
+	This program can be used via cmd instructions such as py.exe [filename] [arguments] on Windows
+V0.2.0-11:53 PM 2018-02-24 (MST):
+	GUI, window-size, code, record system, logs
+
+V0.2.2-1:10 PM 2018-02-25 (MST):
+	autoselect version, fix bugs, can close launcher after launching the game
+ 
+BUG: cannot boot fresh game(seems to because of some recent game version changes)
+
+TODO： -GUI, code rebuild, bugs fix, -window-size, authentication, update and game download.
