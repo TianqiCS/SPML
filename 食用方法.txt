@@ -1,0 +1,19 @@
+﻿将启动器放到游戏目录
+即
+文件浏览器：
+文件：	
+	.minecraft文件夹
+
+	client.exe
+
+	background.gif
+
+三者在同一目录
+
+	双击启动client.exe
+	点击打红色按钮开始游戏
+
+高级：
+	可以用 python3 环境打开 client.py
+	手动选择游戏目录调整设置
+	导出启动脚本
