@@ -5,13 +5,15 @@ A "poor" GUI python3 based minecraft launcher
 
 Usage
 
- Simple: drag the launcher to the dir of the game
-    example->Gamedir/
-                .minecraft
-                .client.exe
-                .background.gif
- Advance: use python execute client.py
-            then locate the game folder and adjust the settings
+Simple: drag the launcher to the dir of the game
+example->Gamedir/
+1. .minecraft                
+2. client.exe
+3. background.gif
+
+Advance:
+1. use python execute client.py
+2. then locate the game folder and adjust the settings
 --------------------------------------------------
 Feathers
 
